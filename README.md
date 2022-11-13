@@ -2,4 +2,4 @@
 curriculum vitae en latex
 
 
-Puedes ver la versión compilada [on-the-fly.](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2Fgrowolff%2Fcv_gonzalo_olave&target=main.tex&command=pdflatex&trackId=1535068395693)
+Puedes ver la versión compilada [on-the-fly.](https://latexonline.cc/compile?url=https://raw.githubusercontent.com/growolff/cv_gonzalo_olave/main/main.tex?token=GHSAT0AAAAAABZS3PS5Q5B5XSS4CJRLKWWOY3RCTHQ)
